@@ -1,0 +1,110 @@
+In constructLL method 
+In listInsert method
+Returns from findSpot where Spot.data is dummy
+listHead -> (dummy, Four) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is Four
+listHead -> (dummy, score) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is score
+listHead -> (dummy, and) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is and
+listHead -> (dummy, seven) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is seven
+listHead -> (dummy, years) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is years
+listHead -> (dummy, ago) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is ago
+listHead -> (dummy, our) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is our
+listHead -> (dummy, fathers) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is fathers
+listHead -> (dummy, brought) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is brought
+listHead -> (dummy, forth) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is forth
+listHead -> (dummy, on) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is on
+listHead -> (dummy, this) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is this
+listHead -> (dummy, continent) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is continent
+listHead -> (dummy, a) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is a
+listHead -> (dummy, new) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is new
+listHead -> (dummy, nation) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is nation
+listHead -> (dummy, conceived) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is conceived
+listHead -> (dummy, in) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is in
+listHead -> (dummy, liberty) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is liberty
+listHead -> (dummy, and) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is and
+listHead -> (dummy, dedicated) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is dedicated
+listHead -> (dummy, to) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is to
+listHead -> (dummy, the) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is the
+listHead -> (dummy, proposition) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is proposition
+listHead -> (dummy, that) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is that
+listHead -> (dummy, all) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is all
+listHead -> (dummy, men) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is men
+listHead -> (dummy, are) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is are
+listHead -> (dummy, created) -> NULL
+In listInsert method
+Returns from findSpot where Spot.data is created
+listHead -> (dummy, equal) -> NULL
+
+
+
+In findMiddleNode method
+walker1's data is score
+walker1's data is and
+walker1's data is seven
+walker1's data is years
+walker1's data is ago
+walker1's data is our
+walker1's data is fathers
+walker1's data is brought
+walker1's data is forth
+walker1's data is on
+walker1's data is this
+walker1's data is continent
+walker1's data is a
+walker1's data is new
+walker1's data is nation
