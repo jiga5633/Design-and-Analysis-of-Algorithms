@@ -1,0 +1,10 @@
+***Performing firstReading***
+NegativeNum: 0
+PositiveNum: 9715
+OffSet: 0
+MaxDigits: 4
+***Performing RSort***
+Digit Position: 1 Current Table: 1 Previous Table: 0
+Digit Position: 2 Current Table: 0 Previous Table: 1
+Digit Position: 3 Current Table: 1 Previous Table: 0
+Digit Position: 4 Current Table: 0 Previous Table: 1
